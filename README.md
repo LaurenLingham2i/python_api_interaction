@@ -1,4 +1,4 @@
-To run the server:
+To run the server:  
 ** Ensure you have json server already installed ```npm install -g json-server``` **
 
 ```
